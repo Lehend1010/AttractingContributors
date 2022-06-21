@@ -8,7 +8,7 @@ The answer may vary depending on the style, but just choose one of them.
 3. Yellow & Pale Green
 4. Brown & Black
 5. White & Black
-6. Black % Lightbrown
+6. Black & Lightbrown
 7. Black & Lightblue
 8. White & Blue
 9. Gray & Black 
