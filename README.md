@@ -15,5 +15,6 @@ The answer may vary depending on the style, but just choose one of them.
 10. Black & Navy
 11. Green & Black
 12. White & Lightblue
-13. Black
-14. Whote & Beige
+13. Navy & Blue
+14. Black
+15. Whote & Beige
